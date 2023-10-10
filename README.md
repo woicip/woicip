@@ -1,5 +1,5 @@
 # woicipta
-Web Developer, Front-End Dev, Back-End Dev
+Web Developer
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=woicip&show_icons=true&theme=radical)
 
