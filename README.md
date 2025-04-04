@@ -1,5 +1,5 @@
 # Cipta
-Web Developer | Frontend Dev | Backend Dev | Design
+Web Developer / Frontend Dev / Backend Dev / Design
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=woicip&show_icons=true&theme=radical)
 
