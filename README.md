@@ -1,7 +1,7 @@
 # Cipta
 Web Developer / Frontend Dev / Backend Dev / Design
 
-![github stats](https://github-readme-stats.vercel.app/api?username=woicip&show_icons=true&theme=radical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=woicip)
 
 ### ⚡ Skills & Technology
 
