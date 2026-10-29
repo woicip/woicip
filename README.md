@@ -5,4 +5,4 @@ Web Developer / Frontend Dev / Backend Dev / Design
 
 ### ⚡ Skills & Technology
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woicip&layout=compact&theme=radical)
+![Top Languages](https://ghstats.dev/api/langs?username=woicip)
